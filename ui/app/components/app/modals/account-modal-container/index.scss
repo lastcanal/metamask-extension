@@ -20,13 +20,14 @@
   }
 
   &__text {
+    @include H6;
+
     margin-top: 2px;
-    font-size: 14px;
-    line-height: 18px;
   }
 
   &__close {
-    font-size: 40px;
+    @include H1;
+
     background-color: transparent;
     color: $dusty-gray;
     position: absolute;
