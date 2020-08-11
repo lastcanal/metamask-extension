@@ -17963,10 +17963,10 @@ mersenne-twister@^1.0.1, mersenne-twister@^1.1.0:
   resolved "https://registry.yarnpkg.com/mersenne-twister/-/mersenne-twister-1.1.0.tgz#f916618ee43d7179efcf641bec4531eb9670978a"
   integrity sha1-+RZhjuQ9cXnvz2Qb7EUx65Zwl4o=
 
-metamask-logo@^2.1.4:
-  version "2.1.4"
-  resolved "https://registry.yarnpkg.com/metamask-logo/-/metamask-logo-2.1.4.tgz#0612b2b0ffc7eeb6be480c310785426ad9599e3c"
-  integrity sha512-hg/FzMfijpzGgLdZWH+KJKS56cRYaMEwcOq8UcnL/MznpgK4OMlJEaIfO8lg7P2F4Z74Ki+ulrTrFW6jf9L2bw==
+metamask-logo@2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/metamask-logo/-/metamask-logo-2.2.0.tgz#59bd13a32ec64265440bf847b084a9bdff314b68"
+  integrity sha512-OO+d9JKAO6l48FBEGWML9sSGRy/iro6udO/TzoHAlYULeKMDXnSLJzQhMYwGUaXFMKPCIgToRCKtdm5XsHZhyQ==
   dependencies:
     gl-mat4 "1.1.4"
     gl-vec3 "1.0.3"
